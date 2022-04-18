@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview
-The purpose of this project was to improve accessibility to ride-sharing services for underserved communities. Using city and ride data which included parameters such as fare, driver count and city type, Pandas Dataframe were used to determine the average fares, the total number of rides, total number of drivers for each city type. Then the percentages of toatl fares, total rides and total drivers was determined for each city type. The Python graphing library Matplotlib was used to visualize this data and a final line graph displaying total fare by each city type was created.
+The purpose of this project was to improve accessibility to ride-sharing services for underserved communities. Using city and ride data which included parameters such as fare, driver count and city type, Pandas Dataframe were used to determine the average fares, the total number of rides, total number of drivers for each city type. Then the percentages of total fares, total rides and total drivers was determined for each city type. The Python graphing library Matplotlib was used to visualize this data and a final line graph displaying total fare by each city type was created.
 
 ## Results
 
